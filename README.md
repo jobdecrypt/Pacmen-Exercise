@@ -4,7 +4,7 @@ Click "Add Pacmen" a couple times to generate Pacmen.
 
 Click "Start Game" a couple times to move the Pacmen faster and make them bounce like crazy.
 
-<img src="https://media.giphy.com/media/aWBSVLUxK14XcwjgZv/giphy.gif">
+<img src="https://media.giphy.com/media/3egzlAxjVk5nGCW6Y8/giphy.gif">
 
 ## Installation
 
